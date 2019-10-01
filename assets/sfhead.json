@@ -59,6 +59,12 @@
     "href": "https://adventoscorp.github.io/SFPublic/manifest.json"
   },
   {
+    "element": "link",
+    "rel": "fluid-icon",
+    "href": "https://adventoscorp.github.io/SFPublic/assets/favicons/favicon-512.png",
+    "title": "SmartForce®"
+  },
+  {
     "element": "meta",
     "name": "apple-mobile-web-app-capable",
     "content": "yes"
